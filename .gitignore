@@ -1,0 +1,10 @@
+﻿resume_unzip/
+resume.zip
+extract.py
+count.js
+server.js
+*.log
+output/
+sim2sim_residual_boxdepth_20260820/
+node_modules/
+ffmpeg.zip
